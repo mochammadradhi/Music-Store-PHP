@@ -1,0 +1,57 @@
+.container-bg-home {
+  background-image: url("../img/background-home.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+  width: 100%;
+  height: 60%;
+}
+
+.bg-image-home {
+  background: rgba(37, 55, 58, 0.5);
+  width: 100%;
+  height: 100%;
+}
+
+.ui.menu {
+  background-color: transparent !important;
+}
+.ui.secondary.menu {
+  margin-left: 1.642857em;
+  margin-right: 1.5em;
+  margin-top: 20px !important;
+}
+
+.ui.container.category {
+  position: relative;
+  top: -300px;
+}
+
+.ui.container.product {
+  position: relative;
+  top: -90px;
+}
+
+.image img {
+  height: 210px !important;
+}
+
+.imgrel img {
+  height: 280px !important;
+}
+
+.ui .header h1 {
+  position: relative !important;
+  left: 250px !important;
+  color: white;
+}
+
+.bg-shop {
+  background-image: url("../img/background-home1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: center;
+  width: 100%;
+  height: 60%;
+}
